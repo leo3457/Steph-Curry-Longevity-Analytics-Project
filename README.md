@@ -24,7 +24,7 @@ The main interface is a **Streamlit app** that allows interactive exploration of
   - `app/` → Streamlit app (`app.py`)
   - `notebooks/` → Jupyter notebooks for EDA and modeling
   - `src/` → Python scripts/utilities
-  - `data/` → Data files (if included)
+  - `data/` → Data files
 
 ---
 
@@ -48,6 +48,7 @@ pip install -r requirements.txt
 
 # 4. Run the Streamlit app
 streamlit run app/app.py
+
 
 
 
