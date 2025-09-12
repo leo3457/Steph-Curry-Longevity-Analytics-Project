@@ -1,0 +1,22 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environment
+venv/
+
+# Ignore data (raw or large files)
+data/
+
+# Ignore Jupyter notebook checkpoints
+**/.ipynb_checkpoints/
+
+# Ignore logsgit add src
+
+*.log
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
