@@ -1,5 +1,3 @@
-﻿# Steph Curry Longevity Analytics Project
-
 # 🏀 Steph Curry Longevity Analytics Project
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://steph-curry-longevity-analytics-projectgit-atbk2hxbfpauueppznd.streamlit.app/)
@@ -50,6 +48,7 @@ pip install -r requirements.txt
 
 # 4. Run the Streamlit app
 streamlit run app/app.py
+
 
 
 
