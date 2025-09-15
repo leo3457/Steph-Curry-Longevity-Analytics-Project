@@ -57,6 +57,7 @@ Final dataset: ~**12,000 player-game rows**, 40+ engineered features.
 ### Visualization
 <img width="2539" height="1228" alt="steph curry ts graph" src="https://github.com/user-attachments/assets/0c4d2066-0454-4749-bdd2-becb321bf673" />
 *Polynomial regression of TS% deviation from baseline, ages 21–40.*
+
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://steph-curry-longevity-analytics-projectgit-atbk2hxbfpauueppznd.streamlit.app/)
 
 ---
@@ -103,6 +104,7 @@ pip install -r requirements.txt
 
 # 4. Run the Streamlit app
 streamlit run app/app.py
+
 
 
 
