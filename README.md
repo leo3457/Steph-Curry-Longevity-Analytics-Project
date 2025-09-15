@@ -1,6 +1,6 @@
 # 🏀 Steph Curry Longevity Analytics Project
 
-[![Open in Streamlit]([https://static.streamlit.io/badges/streamlit_badge_black_white.svg](https://01994b63-6952-2f22-41fd-27276d366647.share.connect.posit.cloud/))
+[![Open in Streamlit]((https://01994b63-6952-2f22-41fd-27276d366647.share.connect.posit.cloud/))
 
 ## 📖 Overview
 This project explores the factors behind **Stephen Curry’s longevity and sustained excellence** in the NBA.  
@@ -48,6 +48,7 @@ pip install -r requirements.txt
 
 # 4. Run the Streamlit app
 streamlit run app/app.py
+
 
 
 
