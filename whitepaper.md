@@ -55,7 +55,7 @@ Final dataset: ~**12,000 player-game rows**, 40+ engineered features.
 - Usage rate expected to taper earlier, suggesting a potential shift in playstyle (off-ball, spot-up shooter role).  
 
 ### Visualization
-[![Performance Forecast](images/longevity_forecast.png](https://github.com/leo3457/Steph-Curry-Longevity-Analytics-Project/blob/880eb6e056aaf1cd0eb7ab614b0f62f53553b3f5/steph%20curry%20ts%20graph.png)]
+![Performance Forecast](images/longevity_forecast.png](https://github.com/leo3457/Steph-Curry-Longevity-Analytics-Project/blob/880eb6e056aaf1cd0eb7ab614b0f62f53553b3f5/steph%20curry%20ts%20graph.png)
 *Polynomial regression of TS% deviation from baseline, ages 21–40.*
 
 ---
