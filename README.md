@@ -46,6 +46,9 @@ Final dataset: ~**12,000 player-game rows**, 40+ engineered features.
 
 ## Results
 
+### Open app in Streamlit
+[![Performance Forecast](https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg)](https://steph-curry-longevity-analytics-projectgit-atbk2hxbfpauueppznd.streamlit.app/)
+
 ### Trend Analysis
 - Curry’s **TS% remains 8–10% above league average**, even as usage increases.  
 - Inter-season “gap metrics” show *delayed decline* compared to peers, consistent with skill-based aging vs. athletic decline.
@@ -102,6 +105,7 @@ pip install -r requirements.txt
 
 # 4. Run the Streamlit app
 streamlit run app/app.py
+
 
 
 
